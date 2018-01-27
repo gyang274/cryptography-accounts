@@ -1,5 +1,17 @@
 # Accounts
 
+## Ethereum
+
+```
+0x4556619edCFda8f6b9F9aDDE6e1da2416755616b
+```
+
+## Zclassic
+
+```
+zcFvkcUfj7eUyuzCwXbCEWgHBQjvbRcfYwf1QUKqQZTB424KyRo8JYBNUk9SMh5SbKWzhKyDSu9Zntm1RQdjKr6gBgYLJNx
+```
+
 ## Pirl
 
 ```
