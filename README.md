@@ -44,5 +44,9 @@ MFhv3AQzZkU6gQviCVTKgL1VHrUuNtxVCi
 ## JimCoin
 
 ```
+#- main
 jC2gWunhCxv2w3dXDpnbf8FkskvRD2so8S1UnZ7sKzDKTyGbXy6j8T24HCZ277ffDnYdvQUMUgcLkAP113a1wQj52de1Jhiig
+
+#- mine0x00
+jC3YJHiNvAA7mFWTFHAznxZ7EaDEYEa23GpuAK1LWegbYwb2miPvS4U2EoKfoNynnS59yYqzpjzsMUUZ7QJCWn7P2TnWG7S4r
 ```
